@@ -1,2 +1,2 @@
 # Edouk
-ste de vendas para e-books 
+site de vendas para e-books 
